@@ -1,0 +1,22 @@
+.nav-bgc{
+	background-color: #999999;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.font-siz{
+	font-size: 30px;
+}
+.description{
+	background-color: #999999;
+}
+h3{
+	padding-top: 20px;
+}
+p{
+	font-size: 20px;
+}
+.xs-bgc{
+	background-color: aquamarine;
+}
